@@ -23,3 +23,8 @@ print(np.zeros((3,3)))
 #arange 
 
 print(np.arange(0,10))
+
+#ones
+
+print(np.ones((3,3)))
+
