@@ -17,3 +17,4 @@ print(arr_2)
 print(arr_3)
 
 
+print(np.zeros((3,3)))
