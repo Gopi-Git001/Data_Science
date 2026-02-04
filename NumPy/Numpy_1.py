@@ -16,5 +16,10 @@ print(arr)
 print(arr_2)
 print(arr_3)
 
+#zeros Built in method in NumPy
 
 print(np.zeros((3,3)))
+
+#arange 
+
+print(np.arange(0,10))
